@@ -4,7 +4,7 @@ ICON = "🐬"
 
 DESCRIPTION = f"{ICON} AI x ROS."
 
-VERSION = "4.9.1"
+VERSION = "4.10.1"
 
 REPO_NAME = "blue-rover"
 
