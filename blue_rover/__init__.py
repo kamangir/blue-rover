@@ -4,11 +4,13 @@ ICON = "🐬"
 
 DESCRIPTION = f"{ICON} AI x ROS."
 
-VERSION = "4.11.1"
+VERSION = "4.12.1"
 
 REPO_NAME = "blue-rover"
 
-MARQUEE = "https://github.com/kamangir/assets/raw/main/blue-rover/marquee.png?raw=true"
+MARQUEE = (
+    "https://github.com/waveshareteam/ugv_rpi/raw/main/media/UGV-Rover-details-23.jpg"
+)
 
 ALIAS = "@rover"
 
