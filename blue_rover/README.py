@@ -8,10 +8,9 @@ from blue_rover import NAME, VERSION, ICON, REPO_NAME
 items = README.Items(
     [
         {
-            "name": "blue-rvr",
-            "marquee": "https://github.com/kamangir/blue-bracket/raw/main/images/blue1-1.jpg",
-            "description": "based on the [Sphero RVR SDK](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python).",
-            "url": "https://github.com/kamangir/blue-rvr",
+            "name": "blue-rover",
+            "marquee": "https://github.com/waveshareteam/ugv_rpi/raw/main/media/UGV-Rover-details-23.jpg",
+            "description": "[UGV Beast PI ROS2](https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2).",
         },
         {
             "name": "blue-donkey",
@@ -26,9 +25,10 @@ items = README.Items(
             "url": "https://github.com/kamangir/blue-bracket/blob/main/designs/skateboard.md",
         },
         {
-            "name": "blue-rover",
-            "marquee": "https://github.com/waveshareteam/ugv_rpi/raw/main/media/UGV-Rover-details-23.jpg",
-            "description": "[UGV Beast PI ROS2](https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2).",
+            "name": "blue-rvr",
+            "marquee": "https://github.com/kamangir/blue-bracket/raw/main/images/blue1-1.jpg",
+            "description": "based on the [Sphero RVR SDK](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python).",
+            "url": "https://github.com/kamangir/blue-rvr",
         },
     ]
 )
