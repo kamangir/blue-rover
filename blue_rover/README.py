@@ -11,7 +11,7 @@ items = README.Items(
             "name": "blue-rover",
             "marquee": "https://github.com/waveshareteam/ugv_rpi/raw/main/media/UGV-Rover-details-23.jpg",
             "description": "based on [UGV Beast PI ROS2](https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2).",
-            "url": "./blue_rover",
+            "url": "./blue_rover/docs",
         }
     ]
 )
