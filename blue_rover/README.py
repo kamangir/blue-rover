@@ -16,7 +16,7 @@ items = README.Items(
         {
             "name": "blue-donkey",
             "marquee": "https://github.com/kamangir/blue-bracket/raw/main/images/blue-donkey-2.jpg",
-            "description": "based on [Donkey Car][https://docs.donkeycar.com/].",
+            "description": "based on [Donkey Car](https://docs.donkeycar.com/).",
             "url": "https://github.com/kamangir/blue-bracket/blob/main/designs/blue-donkey.md",
         },
         {
