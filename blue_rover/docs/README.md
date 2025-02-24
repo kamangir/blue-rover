@@ -2,7 +2,7 @@
 
 - Order at: https://www.waveshare.com/ugv-beast-ros2-kit.htm
 
-## Batter installation:
+## Battery installation:
 
 - instructions: https://www.youtube.com/watch?v=t3EXdMzEUrA
 
