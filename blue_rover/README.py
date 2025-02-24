@@ -37,6 +37,7 @@ items = README.Items(
 def build():
     return README.build(
         items=items,
+        cols=2,
         path=os.path.join(file.path(__file__), ".."),
         ICON=ICON,
         NAME=NAME,
