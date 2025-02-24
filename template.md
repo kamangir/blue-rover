@@ -10,11 +10,5 @@ pip install blue_rover
 
 ---
 
-- https://www.waveshare.com/ugv-beast-ros2-kit.htm
-- https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2
-- https://github.com/waveshareteam/ugv_rpi
-
----
-
 --signature--
 
