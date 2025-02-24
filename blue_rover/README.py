@@ -24,12 +24,6 @@ items = README.Items(
             "description": "self-driving electric skateboard (concept)",
             "url": "https://github.com/kamangir/blue-bracket/blob/main/designs/skateboard.md",
         },
-        {
-            "name": "blue-rvr",
-            "marquee": "https://github.com/kamangir/blue-bracket/raw/main/images/blue1-1.jpg",
-            "description": "based on the [Sphero RVR SDK](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python).",
-            "url": "https://github.com/kamangir/blue-rvr",
-        },
     ]
 )
 
