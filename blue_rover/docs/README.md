@@ -8,7 +8,17 @@
 
 > ... 3 x 18650 lithium batteries with a capacity of 2200mA or above ~~and a discharge rate of 4C~~ (vape stores have them)
 
-## 🔥
+## First Time Use
+
+hotspot: AccessPopup, password: 1234567890
+
+http://192.168.50.5:5000/
+
+| | |
+|-|-|
+| ![image](https://github.com/kamangir/assets/blob/main/blue-rover/interface.png?raw=true) | ![image](https://github.com/kamangir/assets/blob/main/blue-rover/photo_2024-09-24_20-02-32.jpg?raw=true) |
+
+
 
 🔥
 
