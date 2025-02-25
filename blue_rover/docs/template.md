@@ -8,15 +8,18 @@
 
 > ... 3 x 18650 lithium batteries with a capacity of 2200mA or above ~~and a discharge rate of 4C~~ (vape stores have them)
 
-## First Time Use
+## Connection
 
-hotspot: AccessPopup, password: 1234567890
+Two modes:
 
-http://192.168.50.5:5000/
+AP (Access Point): connect to the hotspot: AccessPopup, password: 1234567890
+
+- controller: http://192.168.50.5:5000/
+- Jupyter Lab: http://192.168.50.5:8888/
 
 assets:::blue-rover/interface.png
 
-
+STA (Station Mode): 🔥
 
 🔥
 
