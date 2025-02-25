@@ -14,9 +14,7 @@ hotspot: AccessPopup, password: 1234567890
 
 http://192.168.50.5:5000/
 
-| | |
-|-|-|
-| assets:::blue-rover/interface.png | assets:::blue-rover/photo_2024-09-24_20-02-32.jpg |
+assets:::blue-rover/interface.png
 
 
 
