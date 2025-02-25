@@ -12,14 +12,27 @@
 
 Two modes:
 
-AP (Access Point): connect to the hotspot: AccessPopup, password: 1234567890
+1. AP (Access Point): provides a hotspot: `AccessPopup`, password: `1234567890`
+2. STA (Station Mode): connects to a WiFi network.
 
-- controller: http://192.168.50.5:5000/
-- Jupyter Lab: http://192.168.50.5:8888/
+- controller: http://<ip-address>:5000/ ("main program")
+- Jupyter Lab: http://<ip-address>:8888/
 
-![image](https://github.com/kamangir/assets/blob/main/blue-rover/interface.png?raw=true)
+## Disable the controller
 
-STA (Station Mode): 🔥
+for ROS or notebook access.
+
+https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_1._Preparation#1.2_Disable_the_main_program_from_running_automatically
+
+# SSH
+
+```bash
+ssh root@<ip-address> -p 23
+```
+
+password: `ws`
+
+# ROS
 
 🔥
 
