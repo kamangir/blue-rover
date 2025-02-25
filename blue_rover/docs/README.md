@@ -8,7 +8,7 @@
 
 > ... 3 x 18650 lithium batteries with a capacity of 2200mA or above ~~and a discharge rate of 4C~~ (vape stores have them)
 
-## Connection
+## WiFi
 
 Two modes:
 
