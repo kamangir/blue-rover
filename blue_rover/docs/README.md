@@ -15,8 +15,8 @@ Two modes:
 1. AP (Access Point): provides a hotspot: `AccessPopup`, password: `1234567890`
 2. STA (Station Mode): connects to a WiFi network.
 
-- controller: http://<ip-address>:5000/ ("main program")
-- Jupyter Lab: http://<ip-address>:8888/
+- controller: `http://<ip-address>:5000/` ("main program")
+- Jupyter Lab: `http://<ip-address>:8888/`
 
 ## Disable the controller
 
