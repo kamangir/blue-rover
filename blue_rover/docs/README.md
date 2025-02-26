@@ -15,16 +15,16 @@ Two modes:
 1. AP (Access Point): provides a hotspot: `AccessPopup`, password: `1234567890`
 2. STA (Station Mode): connects to a WiFi network.
 
-- controller: `http://<ip-address>:5000/` ("main program")
-- Jupyter Lab: `http://<ip-address>:8888/`
+## Software
 
-## Disable the controller
+1. Controller: `http://<ip-address>:5000/` ("main program")
+2. Jupyter Lab: `http://<ip-address>:8888/`
+3. ROS
 
-for ROS or notebook access.
 
-https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_1._Preparation#1.2_Disable_the_main_program_from_running_automatically
+Disable the controller for ROS or some notebook access: https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_1._Preparation#1.2_Disable_the_main_program_from_running_automatically
 
-# SSH
+## SSH
 
 ```bash
 ssh root@<ip-address> -p 23
@@ -32,7 +32,11 @@ ssh root@<ip-address> -p 23
 
 password: `ws`
 
-# ROS
+🔥 achieve with iTerm what is done with MobaXterm: 
+1. https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_1._Preparation#1.4_Remote_login_to_Docker_container
+2. https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_2._RViz_View_Product_Model#2.2_Run_ROS2_robot_driver_node
+
+## ROS
 
 🔥
 
