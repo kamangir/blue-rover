@@ -38,6 +38,8 @@ password: `ws`
 
 ## ROS
 
+https://www.xquartz.org/
+
 🔥
 
 - https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2 🔥
