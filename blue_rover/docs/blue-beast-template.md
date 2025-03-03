@@ -1,14 +1,12 @@
 # Blue Beast
 
-based on UGV Beast PI ROS2
-
-- Order at: https://www.waveshare.com/ugv-beast-ros2-kit.htm
+based on [UGV Beast PI ROS2](https://www.waveshare.com/ugv-beast-ros2-kit.htm) [order link].
 
 ## Battery installation:
 
-- instructions: https://www.youtube.com/watch?v=t3EXdMzEUrA
-
 > ... 3 x 18650 lithium batteries with a capacity of 2200mA or above ~~and a discharge rate of 4C~~ (vape stores have them)
+
+- instructions: https://www.youtube.com/watch?v=t3EXdMzEUrA
 
 ## WiFi
 
@@ -23,10 +21,9 @@ Two modes:
 2. Jupyter Lab: `http://<ip-address>:8888/`
 3. ROS
 
-
 Disable the controller for ROS or some notebook access: https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_1._Preparation#1.2_Disable_the_main_program_from_running_automatically
 
-## SSH
+## SSH 🔥
 
 ```bash
 ssh root@<ip-address> -p 23
@@ -38,7 +35,7 @@ password: `ws`
 1. https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_1._Preparation#1.4_Remote_login_to_Docker_container
 2. https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2_2._RViz_View_Product_Model#2.2_Run_ROS2_robot_driver_node
 
-## ROS
+## ROS 🔥
 
 https://www.xquartz.org/
 
