@@ -1,4 +1,6 @@
-# UGV Beast PI ROS2
+# Blue Beast
+
+based on UGV Beast PI ROS2
 
 - Order at: https://www.waveshare.com/ugv-beast-ros2-kit.htm
 
