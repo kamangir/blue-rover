@@ -8,10 +8,10 @@ from blue_rover import NAME, VERSION, ICON, REPO_NAME
 items = README.Items(
     [
         {
-            "name": "blue-rover",
+            "name": "blue-beast",
             "marquee": "https://github.com/waveshareteam/ugv_rpi/raw/main/media/UGV-Rover-details-23.jpg",
             "description": "based on [UGV Beast PI ROS2](https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2).",
-            "url": "./blue_rover/docs",
+            "url": "./blue_rover/docs/blue-beast.md",
         }
     ]
 )
@@ -33,7 +33,7 @@ def build():
                 "path": "..",
             },
             {
-                "path": "docs",
+                "path": "docs/blue-beast.md",
             },
         ]
     )
