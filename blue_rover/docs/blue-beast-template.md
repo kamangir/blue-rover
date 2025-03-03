@@ -44,3 +44,4 @@ https://www.xquartz.org/
 - https://www.waveshare.com/wiki/UGV_Beast_PI_ROS2 🔥
 - https://github.com/waveshareteam/ugv_rpi
 
+![image](https://github.com/waveshareteam/ugv_rpi/raw/main/media/UGV-Rover-details-23.jpg)
